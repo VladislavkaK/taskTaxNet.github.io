@@ -1,0 +1,63 @@
+﻿.container {
+	width: 160px;
+}
+.nav-center {
+	margin: 0px;
+	padding: 10px;
+	overflow: hidden;
+	width: 230px;
+}
+
+.tab-content {
+	width: 430px;
+}
+
+.form-control {
+	margin-left: 100px;
+	margin-top: 20px;
+}
+
+#update {
+	margin-top: 20px;
+	margin-left: 60px;
+	margin-bottom: 20px;
+	width: 500px;
+} 
+
+#tags {
+	margin-top: 20px;
+	margin-left: 120px;
+	width: 400px;
+	clear: both;
+}
+
+.badge, .indigo {
+	margin: 5px;
+}
+
+.list-group-item {
+	width: 530px;
+}
+
+.btn.btn-lg {
+	margin-top: 20px;
+	margin-left: 220px;
+}
+
+.icon-star-data {
+	width: 20px;
+}
+
+.fa-star-o {
+	font-size: 15px;
+}
+
+.icon-book-marks-data {
+	width: 20px;
+}
+
+#bookmarks {
+	margin-top: 20px;
+	margin-left: 100px;
+	width: 400px;
+}
